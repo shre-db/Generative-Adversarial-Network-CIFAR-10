@@ -38,7 +38,7 @@ This project is focused on developing a Generative Adversarial Network (GAN) fro
 
 ## Results
 
-![Training Loss and Correlation](images/MNIST-training-loss-correlation.png)
+![Training Loss and Correlation](images/CIFAR10-Training-Loss-Correlation.png)
 
 ## References
 
